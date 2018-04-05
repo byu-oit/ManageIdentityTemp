@@ -12,7 +12,7 @@
 			http://www.springframework.org/schema/mvc/spring-mvc-3.0.xsd">
 
     <!-- Activates various annotations to be detected in bean classes -->
-    <context:property-placeholder location="file:///C:/Users/swlyons/Desktop/metadata/manageIdentity.properties"/>
+    <!--<context:property-placeholder location="file:///C:/Users/swlyons/Desktop/metadata/manageIdentity.properties"/>-->
     <!--<context:property-placeholder location="file:/var/opt/tomcat/manageIdentity.properties"/>-->
 
     <context:annotation-config />
