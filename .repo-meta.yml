@@ -27,6 +27,7 @@ software:
     technologies_used: # optional
       - Java
       - CSS
+      - Maven
     standard_change_template:
     stages:
       development:
